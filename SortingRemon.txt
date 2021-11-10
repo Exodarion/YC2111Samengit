@@ -1,2 +1,3 @@
-eerste regel En een hallo door Rolf door Remon
+eerste regel door Remon en Rolf
 Tweede regel Remon
+Derde regel voor merge conflict Remon
